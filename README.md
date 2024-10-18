@@ -1,5 +1,5 @@
 Nexter Grid Layout 
-Welcome to the Nexter Grid Layout RMS! This project is a responsive and modern grid-based layout system designed for dynamic and flexible web page design. It's built with simplicity and elegance in mind, focusing on delivering a seamless user experience.
+This project is a responsive and modern grid-based layout system designed for dynamic and flexible web page design. It's built with simplicity and elegance in mind, focusing on delivering a seamless user experience.
 
 Features
 Responsive Design: Adapts seamlessly to all screen sizes.
